@@ -1,4 +1,4 @@
-# Privacy Policy for [Face Cover]
+# Privacy Policy for Face Cover
 
 **Effective Date:** [2025-05-09]
 
