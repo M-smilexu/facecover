@@ -38,7 +38,9 @@ Include the following in your description:
 #### Example:
 
 > Issue: App crashes when applying emoji masks to group photos.
+> 
 > Steps: Opened a photo with 10 faces, selected "Apply Emoji," and the app closed unexpectedly.
+> 
 > Device: iPhone 14 Pro, iOS 17.2, App Version 1.2.3.
 
 #### Use Labels (Optional)
