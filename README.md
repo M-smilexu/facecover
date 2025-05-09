@@ -4,7 +4,7 @@ Welcome to **Face Cover** —the smart solution for parents who want to share fa
 Whether you’re a parent, teacher, or guardian, **Face Cover** helps you balance sharing and safety effortlessly. Download now from the App Store to keep your family’s memories private and fun!
 
 ## Need Help?
-Visit our **Issues** section for assistance. Let’s make photo sharing worry-free together!
+Visit our [Issues](https://github.com/M-smilexu/facecover/issues) section for assistance. Let’s make photo sharing worry-free together!
 
 If you encounter any issues, bugs, or have feature suggestions for **Face Cover**, please follow this guide to report them via our GitHub repository. This helps us understand and resolve problems efficiently while maintaining a clear record of feedback.
 
